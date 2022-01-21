@@ -6,7 +6,7 @@ const NewsItem = (props)=> {
 
         return (
             <div className="my-3">
-                <div className="card" style={{}}> 
+                <div className="card" style={{border:"0px"}}> 
                     <div style={{
                         display: 'flex',
                         justifyContent: 'flex-end',
